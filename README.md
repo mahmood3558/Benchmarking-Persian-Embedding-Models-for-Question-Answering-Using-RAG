@@ -8,8 +8,8 @@ The rise of chatbots and large language models (LLMs) in Persian NLP has exposed
 
 ## Repository Structure
 - `datasets/`: Contains the four datasets used in this study:
-  - **PersianQA**: Derived from Persian Wikipedia articles, inspired by SQuAD2.0.[Link](https://github.com/sajjjadayobi/PersianQA)
-  - **PersianQuAD**: 1,000 question-context pairs developed by native speakers.[Link](https://github.com/BigData-IsfahanUni/PersianQuAD)
+  - **PersianQA**: Derived from Persian Wikipedia articles, inspired by SQuAD2.0.([Link](https://github.com/sajjjadayobi/PersianQA))
+  - **PersianQuAD**: 1,000 question-context pairs developed by native speakers.([Link](https://github.com/BigData-IsfahanUni/PersianQuAD))
   - **SQuAD (translated)**: Persian translation of the English SQuAD dataset.
   - **BoolQ (translated)**: Persian translation of Google’s BoolQ yes/no dataset.
 
